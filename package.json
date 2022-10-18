@@ -1,0 +1,17 @@
+{
+  "name": "roadtonextjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nimit2801/roadtonextjs.git",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^12.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "author": "nimit2801 <'mnimitsavant@outlook.com'>",
+  "license": "MPL-2.0",
+  "private": false
+}

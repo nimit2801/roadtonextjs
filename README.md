@@ -9,7 +9,8 @@
 ## Update: :sparkles:
 
 - [x] Learning Js to React
-- [ ] Learning React to NextJs
+- [x] Learning React to NextJs
+- [ ] How Next.js Works
 
 ### Where abouts: :spider:
 
